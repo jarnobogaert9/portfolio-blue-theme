@@ -167,8 +167,11 @@ button:hover {
 }
 
 #hero-image h1 {
-    color: #fff;
     font-size: 22pt;
+}
+
+#hero-image {
+    color: #fff;
 }
 
 /*=========================
