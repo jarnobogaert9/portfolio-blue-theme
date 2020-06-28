@@ -251,8 +251,12 @@ nav ul a:hover::after {
     color: rgb(83, 83, 83);
 }
 
+.block {
+    display: block;
+}
+
 .uppercase {
-    display: inline-block;
+    /* display: inline-block; */
     padding-bottom: 0.5em;
     /* border-bottom: 1.5px solid #72E1D1; */
     text-transform: uppercase;
